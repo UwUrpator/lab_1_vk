@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="array" targetName="run_arr" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ec99d5c-0b82-46bb-8987-e3091c14c1d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="array" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yia0WU2wZD7KxYf5PLu7v2zwg8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="run_arr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="array" TARGET_NAME="run_arr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="array" RUN_TARGET_NAME="run_arr">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ec99d5c-0b82-46bb-8987-e3091c14c1d4" name="Default Changelist" comment="" />
+      <created>1583427647589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583427647589</updated>
+      <workItem from="1583427655211" duration="405000" />
+      <workItem from="1583428190992" duration="87000" />
+      <workItem from="1583428304757" duration="21000" />
+      <workItem from="1583428994143" duration="29000" />
+      <workItem from="1583429052029" duration="205000" />
+      <workItem from="1583486149583" duration="63000" />
+      <workItem from="1583493020028" duration="145000" />
+      <workItem from="1583503796590" duration="595000" />
+      <workItem from="1584041213127" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="311" width="426" height="479" key="FileChooserDialogImpl" timestamp="1583427679247">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="743" y="311" width="426" height="479" key="FileChooserDialogImpl/0.25.1920.1055@0.25.1920.1055" timestamp="1583427679247" />
+    <state width="1872" height="280" key="GridCell.Tab.0.bottom" timestamp="1583504394328">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1872" height="280" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1583504394328" />
+    <state width="1872" height="280" key="GridCell.Tab.0.center" timestamp="1583504394326">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1872" height="280" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1583504394326" />
+    <state width="1872" height="280" key="GridCell.Tab.0.left" timestamp="1583504394325">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1872" height="280" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1583504394325" />
+    <state width="1872" height="280" key="GridCell.Tab.0.right" timestamp="1583504394327">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1872" height="280" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1583504394327" />
+    <state x="456" y="188" key="SettingsEditor" timestamp="1583429023762">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="456" y="188" key="SettingsEditor/0.25.1920.1055@0.25.1920.1055" timestamp="1583429023762" />
+    <state x="639" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583427658875">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="639" y="380" key="com.intellij.ide.util.TipDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1583427658875" />
+  </component>
+</project>

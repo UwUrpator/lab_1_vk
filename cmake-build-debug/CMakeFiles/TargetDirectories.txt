@@ -1,0 +1,3 @@
+/home/uwurpator/mephi/c_labs/lab_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/uwurpator/mephi/c_labs/lab_1/cmake-build-debug/CMakeFiles/run_arr.dir
+/home/uwurpator/mephi/c_labs/lab_1/cmake-build-debug/CMakeFiles/edit_cache.dir
